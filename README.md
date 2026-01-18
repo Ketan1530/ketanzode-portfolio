@@ -2,7 +2,7 @@
 
 Hi there! 👋 I’m **Ketan Zode**, an **AI & Data Science Student** passionate about **web development, machine learning, and data science**. Welcome to my personal portfolio! 🚀
 
-🔗 **Live Portfolio:** [Click Here](https://effulgent-basbousa-3bb87b.netlify.app/)
+🔗 **Live Portfolio:** [Click Here](https://ketan1530.github.io/ketanzode-portfolio/)
 
 ---
 
